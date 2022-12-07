@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Smart Tv 32 Polegadas",
+    "picture": "images/smartTvLg32Polegadas.jpg",
+    "estoque": 3,
+    "marca": "LG",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 1,
+    "name": "Smart Tv 42 Polegadas",
+    "picture": "images/smartTvPhlico42polegadas.jpg",
+    "estoque": 3,
+    "marca": "Philco",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 2,
+    "name": "Smart Tv 32 Polegadas",
+    "picture": "images/smartTvPhlico42polegadas.jpg",
+    "estoque": 2,
+    "marca": "Philco",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 3,
+    "name": "Smart Tv 32 Polegadas",
+    "picture": "images/smartTvSemp32Polegadas.jpg",
+    "estoque": 2,
+    "marca": "Semp",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 4,
+    "name": "Máquina de Lavar 12 kgs",
+    "picture": "images/MaquinaDeLavarBrastempCinza12kgs.png",
+    "estoque": 2,
+    "marca": "Brastemp",
+    "disponivel": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Lava Roupa Branca 12 Kgs",
+    "picture": "images/LavaRoupasElectroluxBranca12kgs.png",
+    "estoque": 3,
+    "marca": "Electrolux",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 6,
+    "name": "Lava Roupa Cinza 11 Kgs",
+    "picture": "images/LavaRoupaSamsungCinza11kgs.png",
+    "estoque": 3,
+    "marca": "Samsung",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 7,
+    "name": "Lava e Seca Grafite 10 Kgs",
+    "picture": "images/LavaESecaMideaGrafite10kgs.png",
+    "estoque": 3,
+    "marca": "Midea",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 8,
+    "name": "Fogão 4 bocas Branco",
+    "picture": "images/fogaoEsmaltecBranco4Bocas.png",
+    "estoque": 2,
+    "marca": "Esmaltec",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 9,
+    "name": "Fogão 6 bocas Branco",
+    "picture": "images/fogaoEsmaltecBranco6Bocas.png",
+    "estoque": 3,
+    "marca": "Esmaltec",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 10,
+    "name": "Fogão 5 bocas Cinza",
+    "picture": "images/fogaoEsmaltecCinza5Bocas.png",
+    "estoque": 2,
+    "marca": "Esmaltec",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 11,
+    "name": "Fogão 4 bocas Preto",
+    "picture": "images/fogaoEsmaltecPreto4Bocas.png",
+    "estoque": 3,
+    "marca": "Esmaltec",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 12,
+    "name": "Geladeira Brastemp Cinza",
+    "picture": "images/geladeiraCinza.png",
+    "estoque": 3,
+    "marca": "Brastemp",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 13,
+    "name": "Geladeira Brastemp Branca",
+    "picture": "images/geladeiraBranca.png",
+    "estoque": 3,
+    "marca": "Brastemp",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 14,
+    "name": "Ar Condicionado 9000 Buts",
+    "picture": "images/arconLg9000.png",
+    "estoque": 3,
+    "marca": "LG",
+    "disponivel": "Sim"
+  },
+  {
+    "id": 15,
+    "name": "Ar Condicionado 12000 Buts",
+    "picture": "images/arConSplitHiWallPhilcoBlack12000.png",
+    "estoque": 4,
+    "marca": "Philco",
+    "disponivel": "Sim"
+  }
+]
